@@ -13,6 +13,8 @@ Me especializo en el área móvil iOS desde hace 4 años, y cuento con experienc
 [![GitHub](https://img.shields.io/badge/GitHub-642C91?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
 [![GitLab](https://img.shields.io/badge/GitLab-FCA225?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=101010)]()
 
+Y algunas más...
+
 ## Arquitecturas:
 [![MVC](https://img.shields.io/badge/MVC-007396?style=for-the-badge&logo=MVC&logoColor=white&labelColor=101010)]()
 [![MVVM](https://img.shields.io/badge/MVVM-007396?style=for-the-badge&logo=MVVM&logoColor=white&labelColor=101010)]()
