@@ -1,7 +1,7 @@
 # Hola, mi nombre es Abel Lazaro 👋
 ### iOS Developer
 
-<a href="./banner.jpg"><img src="./banner.jpg" style="height: 100%; width:100%;"/></a>
+<a href="./banner.png"><img src="./banner.png" style="height: 100%; width:100%;"/></a>
 
 Me especializo en el área móvil iOS desde hace 4 años, y cuento con experiencia desarrollando en diferentes proyectos como desarrollador o líder. Mi objetivo es ser Ingeniero de software iOS & Android.
 
