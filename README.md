@@ -3,6 +3,8 @@
 
 <a href="./banner.png"><img src="./banner.png" style="height: 100%; width:100%;"/></a>
 
+I'm a professional iOS developer since 2020.
+
 I specialize in the iOS mobile area for 4 years, and I have experience developing different projects as a developer or leader. My goal is to be an iOS & Android Software Engineer.
 
 ## 🧰 Technologies:
